@@ -108,10 +108,3 @@ Copy
 Edit
 
 ---
-
-Let me know if you'd like a `zip` folder with:
-- The code file
-- This README
-- Git-ready folder layout
-
-Or if you want this README uploaded directly to a GitHub repo.
